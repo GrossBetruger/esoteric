@@ -5,5 +5,8 @@ authors = ["oren <oren@cynerio.co>"]
 edition = "2018"
 
 [dependencies]
-rand = "*"
 rust-crypto = "0.2.36"
+rand = "0.6.5"
+time = "0.1.42"
+xorshift = "0.1"
+
